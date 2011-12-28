@@ -1,0 +1,11 @@
+joe@swantron.com
+2011
+IOIODC
+
+Simple app to push simple digital outs through an H-Bridge, powering two DC motors via a minimal interface of six buttons.  
+
+Each *side implements a forward, reverse, and a master "on"
+
+Pins utilized on IOIO board are 21-- 26.  
+
+visit http://swantron.com for details
